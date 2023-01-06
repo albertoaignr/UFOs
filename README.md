@@ -2,22 +2,19 @@
 # Overview
 Helping Dana's webpage to be more user friendly by working on a JavaScript code that filters more information about UFOs sightings for display. Multiple criterias could be selected for the filtered options additional to date, such as: city, state, country and shape.
 
-If theres a more in depth analysis, this new addition could help sort information out for a better dig in the information.
+If theres a more in depth analysis, this new addition could help sort information out for a better dig in of the information.
 
 # Results
 
 The main change of the webpage was the removal of the filter button and the addition of the different type of data to filter the information for display. The change could be seen in the following images.
 
-SCREEN BEFORE
+![filter_button.png](/Images/filter_button.png)
 
-SCREEN AFTER
+![nofilter_button.png](/Images/nofilter_button.png)
 
 This new website allows the user to be able to select their own search criteria to create a new table of information that matches with their search. Filtering of information, narrowing down to a state/city pair can be seen in the next image example.
 
-FILTERING IMAGE
-
-
-
+![filtered_data.png](/Images/filtered_data.png)
  
 # Summary 
 
