@@ -20,5 +20,5 @@ This new website allows the user to be able to select their own search criteria 
 
 Using the website tools to filter the data is helpful as it serves of an accurate tool for data visualization. Though, a drawback of this new design is that there is no filter button to action the selection with all the inputs selected but it loads the information automatically as soon you leave the text box. The web page serves it's purpose but there could be a couple extra recomendations:
 
-1- Add more interaction so the filter updates whenever you modify the input.
-2- Have a scroll down menu to check for the information available, so you can take a sneak peek of what is contained in the data.
+1. Add more interaction so the filter updates whenever you modify the input.
+2. Have a scroll down menu to check for the information available, so you can take a sneak peek of what is contained in the data.
